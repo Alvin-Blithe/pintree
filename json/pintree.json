@@ -453,286 +453,6 @@
       },
       {
         "type": "folder",
-        "addDate": 1686126942721,
-        "title": "课程文献",
-        "children": [
-          {
-            "type": "folder",
-            "addDate": 1686126950494,
-            "title": "钙钛矿（有机电子）",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1686126950494,
-                "title": "用于发光二极管和激光器的钙钛矿材料 - Veldhuis- 2016 - 先进材料 - Wiley 在线图书馆",
-                "icon": "https://logo.clearbit.com/onlinelibrary.wiley.com",
-                "url": "https://onlinelibrary.wiley.com/doi/10.1002/adma.201600669"
-              },
-              {
-                "type": "link",
-                "addDate": 1686126950494,
-                "title": "卤化物钙钛矿半导体激光器：材料、腔体设计和低阈值 |纳米字母",
-                "icon": "https://logo.clearbit.com/pubs.acs.org",
-                "url": "https://pubs.acs.org/doi/10.1021/acs.nanolett.0c03593#"
-              },
-              {
-                "type": "link",
-                "addDate": 1686126950494,
-                "title": "现实或幻想—钙钛矿半导体激光二极管 - 高 - 2021 - EcoMat - Wiley 在线图书馆",
-                "icon": "https://logo.clearbit.com/onlinelibrary.wiley.com",
-                "url": "https://onlinelibrary.wiley.com/doi/10.1002/eom2.12077"
-              },
-              {
-                "type": "link",
-                "addDate": 1686128027283,
-                "title": "太阳能电池以外的有机/无机金属卤化物钙钛矿光电器件 - 周日 - 2018 - 先进科学 - Wiley在线图书馆",
-                "icon": "https://logo.clearbit.com/onlinelibrary.wiley.com",
-                "url": "https://onlinelibrary.wiley.com/doi/10.1002/advs.201700780"
-              },
-              {
-                "type": "link",
-                "addDate": 1686128153477,
-                "title": "金属卤化物钙钛矿向电泵浦激光器的应用 - 刘 - 2022 - 激光与光子学评论 - 威利在线图书馆",
-                "icon": "https://logo.clearbit.com/onlinelibrary.wiley.com",
-                "url": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202200189"
-              },
-              {
-                "type": "link",
-                "addDate": 1686128239648,
-                "title": "金属卤化物钙钛矿激光器中的材料化学和工程 - 化学学会评论（RSC 出版）",
-                "icon": "https://logo.clearbit.com/pubs.rsc.org",
-                "url": "https://pubs.rsc.org/en/content/articlelanding/2020/CS/C9CS00598F"
-              },
-              {
-                "type": "link",
-                "addDate": 1686129768439,
-                "title": "金属卤化物钙钛矿激光器的研究进展：合成策略、形貌控制和激光发射",
-                "icon": "https://logo.clearbit.com/www.spiedigitallibrary.org",
-                "url": "https://www.spiedigitallibrary.org/journals/advanced-photonics/volume-3/issue-03/034002/Advances-in-metal-halide-perovskite-lasers--synthetic-strategies-morphology/10.1117/1.AP.3.3.034002.full?SSO=1"
-              },
-              {
-                "type": "link",
-                "addDate": 1686190344648,
-                "title": "迈向非外延激光二极管 |化学评论",
-                "icon": "https://logo.clearbit.com/pubs.acs.org",
-                "url": "https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.2c00721"
-              },
-              {
-                "type": "link",
-                "addDate": 1686190457152,
-                "title": "用于下一代光源的钙钛矿 |化学评论",
-                "icon": "https://logo.clearbit.com/pubs.acs.org",
-                "url": "https://pubs.acs.org/doi/10.1021/acs.chemrev.9b00107"
-              },
-              {
-                "type": "link",
-                "addDate": 1686191762713,
-                "title": "有机激光器：材料、器件几何形状和制造技术的最新发展 |化学评论",
-                "icon": "https://logo.clearbit.com/pubs.acs.org",
-                "url": "https://pubs.acs.org/doi/10.1021/acs.chemrev.6b00172"
-              },
-              {
-                "type": "link",
-                "addDate": 1686192754051,
-                "title": "有机-无机钙钛矿：功能材料设计的结构通用性 |化学评论",
-                "icon": "https://logo.clearbit.com/pubs.acs.org",
-                "url": "https://pubs.acs.org/doi/10.1021/acs.chemrev.5b00715"
-              },
-              {
-                "type": "link",
-                "addDate": 1686366636947,
-                "title": "用于激光应用的金属卤化物钙钛矿 - 雷 - 2021 - 先进功能材料 - Wiley在线图书馆",
-                "icon": "https://logo.clearbit.com/onlinelibrary.wiley.com",
-                "url": "https://onlinelibrary.wiley.com/doi/10.1002/adfm.202010144"
-              },
-              {
-                "type": "folder",
-                "addDate": 1686388254472,
-                "title": "新建文件夹",
-                "children": [
-                  {
-                    "type": "folder",
-                    "addDate": 1686388254472,
-                    "title": "相图",
-                    "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1686388254472,
-                        "title": "Electrical resistivity study on homogenization process of liquid immiscible Bi-Ga-Sn alloy in melting process - ScienceDirect",
-                        "icon": "https://logo.clearbit.com/www.sciencedirect.com",
-                        "url": "https://www.sciencedirect.com/science/article/pii/S0167732217310899?via%3Dihub"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1686388254473,
-                        "title": "Experimental investigation and thermodynamic calculation of the Bi–Ga–Sn phase equilibria - ScienceDirect",
-                        "icon": "https://logo.clearbit.com/www.sciencedirect.com",
-                        "url": "https://www.sciencedirect.com/science/article/pii/S0022369709001735?via%3Dihub#fig1"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1686388254473,
-                        "title": "The experimental study of the Bi–Sn, Bi–Zn and Bi–Sn–Zn systems - ScienceDirect",
-                        "icon": "https://logo.clearbit.com/www.sciencedirect.com",
-                        "url": "https://www.sciencedirect.com/science/article/pii/S0364591607000429#fig1"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1686388254473,
-                        "title": "link.springer.com",
-                        "icon": "https://logo.clearbit.com/link.springer.com",
-                        "url": "https://link.springer.com/article/10.1007/s12540-019-00359-3?utm_source=xmol&utm_medium=affiliate&utm_content=meta&utm_campaign=DDCN_1_GL01_metadata"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1686388254473,
-                        "title": "degruyter.com/document/doi/10.3139/146.101774/html",
-                        "icon": "https://logo.clearbit.com/www.degruyter.com",
-                        "url": "https://www.degruyter.com/document/doi/10.3139/146.101774/html"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1686388254473,
-                        "title": "sci.bban.top/pdf/10.3139/146.101774.pdf#view=FitH",
-                        "icon": "https://logo.clearbit.com/sci.bban.top",
-                        "url": "https://sci.bban.top/pdf/10.3139/146.101774.pdf#view=FitH"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1686388254473,
-                        "title": "degruyter.com/document/doi/10.3139/146.101561/html",
-                        "icon": "https://logo.clearbit.com/www.degruyter.com",
-                        "url": "https://www.degruyter.com/document/doi/10.3139/146.101561/html"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1686388254473,
-                        "title": "sci.bban.top/pdf/10.3139/146.101561.pdf#view=FitH",
-                        "icon": "https://logo.clearbit.com/sci.bban.top",
-                        "url": "https://sci.bban.top/pdf/10.3139/146.101561.pdf#view=FitH"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "folder",
-                    "addDate": 1686388254473,
-                    "title": "钙钛矿文献",
-                    "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1686388254473,
-                        "title": "onlinelibrary.wiley.com/doi/10.1002/eom2.12077",
-                        "icon": "https://logo.clearbit.com/onlinelibrary.wiley.com",
-                        "url": "https://onlinelibrary.wiley.com/doi/10.1002/eom2.12077"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1686388254473,
-                        "title": "iopscience.iop.org/article/10.1088/1674-1056/27/11/114209",
-                        "icon": "https://logo.clearbit.com/iopscience.iop.org",
-                        "url": "https://iopscience.iop.org/article/10.1088/1674-1056/27/11/114209"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1686388254474,
-                        "title": "spiedigitallibrary.org/journals/advanced-photonics/volume-3/issue-03/034002/Advances-in-metal-halide-perovskite-lasers--synthetic-strategies-morphology/10.1117/1.AP.3.3.034002.full?SSO=1",
-                        "icon": "https://logo.clearbit.com/www.spiedigitallibrary.org",
-                        "url": "https://www.spiedigitallibrary.org/journals/advanced-photonics/volume-3/issue-03/034002/Advances-in-metal-halide-perovskite-lasers--synthetic-strategies-morphology/10.1117/1.AP.3.3.034002.full?SSO=1"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1686388254474,
-                        "title": "sciencedirect.com/science/article/pii/S1748013215000560?via%3Dihub#sec0010",
-                        "icon": "https://logo.clearbit.com/www.sciencedirect.com",
-                        "url": "https://www.sciencedirect.com/science/article/pii/S1748013215000560?via%3Dihub#sec0010"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1686388254474,
-                        "title": "pubs.rsc.org/en/content/articlelanding/2020/CS/C9CS00598F",
-                        "icon": "https://logo.clearbit.com/pubs.rsc.org",
-                        "url": "https://pubs.rsc.org/en/content/articlelanding/2020/CS/C9CS00598F"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1686388254474,
-                        "title": "onlinelibrary.wiley.com/doi/10.1002/lpor.202200189",
-                        "icon": "https://logo.clearbit.com/onlinelibrary.wiley.com",
-                        "url": "https://onlinelibrary.wiley.com/doi/10.1002/lpor.202200189"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1686388254474,
-                        "title": "用于激光应用的金属卤化物钙钛矿 - 雷 - 2021 - 先进功能材料 - Wiley在线图书馆",
-                        "icon": "https://logo.clearbit.com/onlinelibrary.wiley.com",
-                        "url": "https://onlinelibrary.wiley.com/doi/10.1002/adfm.202010144"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1686388254474,
-                        "title": "用于小型化固态激光器应用的可调谐卤化物钙钛矿 - Liao - 2019 - 先进光学材料 - Wiley 在线图书馆",
-                        "icon": "https://logo.clearbit.com/onlinelibrary.wiley.com",
-                        "url": "https://onlinelibrary.wiley.com/doi/10.1002/adom.201900099"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1686388254474,
-                        "title": "用于发光二极管和激光器的钙钛矿材料 - Veldhuis- 2016 - 先进材料 - Wiley 在线图书馆",
-                        "icon": "https://logo.clearbit.com/onlinelibrary.wiley.com",
-                        "url": "https://onlinelibrary.wiley.com/doi/10.1002/adma.201600669"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1686388254474,
-                        "title": "有机激光器：材料、器件几何形状和制造技术的最新发展 |化学评论",
-                        "icon": "https://logo.clearbit.com/pubs.acs.org",
-                        "url": "https://pubs.acs.org/doi/10.1021/acs.chemrev.6b00172"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1686388254474,
-                        "title": "有机半导体激光器 |化学评论",
-                        "icon": "https://logo.clearbit.com/pubs.acs.org",
-                        "url": "https://pubs.acs.org/doi/10.1021/cr050152i"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1686133837007,
-            "title": "相图",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1686134063178,
-                "title": "Bi-Ga-Sn三元体系的比较热力学研究与相平衡",
-                "icon": "https://logo.clearbit.com/www.degruyter.com",
-                "url": "https://www.degruyter.com/document/doi/10.3139/146.101561/html"
-              },
-              {
-                "type": "link",
-                "addDate": 1686134071918,
-                "title": "Experimental investigation and thermodynamic calculation of the Bi–Ga–Sn phase equilibria - ScienceDirect",
-                "icon": "https://logo.clearbit.com/www.sciencedirect.com",
-                "url": "https://www.sciencedirect.com/science/article/pii/S0022369709001735?via%3Dihub"
-              },
-              {
-                "type": "link",
-                "addDate": 1686134157117,
-                "title": "Electrical resistivity study on homogenization process of liquid immiscible Bi-Ga-Sn alloy in melting process - ScienceDirect",
-                "icon": "https://logo.clearbit.com/www.sciencedirect.com",
-                "url": "https://www.sciencedirect.com/science/article/pii/S0167732217310899?via%3Dihub"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "folder",
         "addDate": 1670298157709,
         "title": "课题组与老师",
         "children": [
@@ -751,60 +471,53 @@
             "url": "https://www.scopus.com/authid/detail.uri?authorId=27667859100"
           },
           {
-            "type": "folder",
-            "addDate": 1670382472227,
-            "title": "老师（方钴矿）",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1670382472228,
-                "title": "刘志愿 - 安徽工业大学, 副教授 | 科研之友",
-                "icon": "https://logo.clearbit.com/www.scholarmate.com",
-                "url": "https://www.scholarmate.com/P/7zMJby?module=pub"
-              },
-              {
-                "type": "link",
-                "addDate": 1670382472228,
-                "title": "陈立东----高性能陶瓷和超微结构国家重点实验室",
-                "icon": "https://logo.clearbit.com/www.skl.sic.cas.cn",
-                "url": "http://www.skl.sic.cas.cn/ryjg/yjy/cld/"
-              },
-              {
-                "type": "link",
-                "addDate": 1670382472228,
-                "title": "耿慧远 - 哈尔滨工业大学教师个人主页",
-                "icon": "https://logo.clearbit.com/homepage.hit.edu.cn",
-                "url": "http://homepage.hit.edu.cn/genghuiyuan"
-              },
-              {
-                "type": "link",
-                "addDate": 1670382472228,
-                "title": "Home - 李敬锋教授课题组",
-                "icon": "https://logo.clearbit.com/lab.jun-pei.top",
-                "url": "https://lab.jun-pei.top/"
-              },
-              {
-                "type": "link",
-                "addDate": 1670382472228,
-                "title": "斯奈德，G.杰弗里|师资力量|西北工程",
-                "icon": "https://logo.clearbit.com/www.mccormick.northwestern.edu",
-                "url": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/snyder-gerald.html"
-              },
-              {
-                "type": "link",
-                "addDate": 1670382472228,
-                "title": "赵立东-北京航空航天大学材料科学与工程学院",
-                "icon": "https://logo.clearbit.com/www.mse.buaa.edu.cn",
-                "url": "http://www.mse.buaa.edu.cn/info/1052/2394.htm"
-              },
-              {
-                "type": "link",
-                "addDate": 1670382472228,
-                "title": "北京航空航天大学主页平台系统 赵立东--新能源材料研究组--首页",
-                "icon": "https://logo.clearbit.com/shi.buaa.edu.cn",
-                "url": "https://shi.buaa.edu.cn/zhaolidong/zh_CN/index.htm"
-              }
-            ]
+            "type": "link",
+            "addDate": 1670382472228,
+            "title": "刘志愿 - 安徽工业大学, 副教授 | 科研之友",
+            "icon": "https://logo.clearbit.com/www.scholarmate.com",
+            "url": "https://www.scholarmate.com/P/7zMJby?module=pub"
+          },
+          {
+            "type": "link",
+            "addDate": 1670382472228,
+            "title": "陈立东----高性能陶瓷和超微结构国家重点实验室",
+            "icon": "https://logo.clearbit.com/www.skl.sic.cas.cn",
+            "url": "http://www.skl.sic.cas.cn/ryjg/yjy/cld/"
+          },
+          {
+            "type": "link",
+            "addDate": 1670382472228,
+            "title": "耿慧远 - 哈尔滨工业大学教师个人主页",
+            "icon": "https://logo.clearbit.com/homepage.hit.edu.cn",
+            "url": "http://homepage.hit.edu.cn/genghuiyuan"
+          },
+          {
+            "type": "link",
+            "addDate": 1670382472228,
+            "title": "Home - 李敬锋教授课题组",
+            "icon": "https://logo.clearbit.com/lab.jun-pei.top",
+            "url": "https://lab.jun-pei.top/"
+          },
+          {
+            "type": "link",
+            "addDate": 1670382472228,
+            "title": "斯奈德，G.杰弗里|师资力量|西北工程",
+            "icon": "https://logo.clearbit.com/www.mccormick.northwestern.edu",
+            "url": "https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/snyder-gerald.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1670382472228,
+            "title": "赵立东-北京航空航天大学材料科学与工程学院",
+            "icon": "https://logo.clearbit.com/www.mse.buaa.edu.cn",
+            "url": "http://www.mse.buaa.edu.cn/info/1052/2394.htm"
+          },
+          {
+            "type": "link",
+            "addDate": 1670382472228,
+            "title": "北京航空航天大学主页平台系统 赵立东--新能源材料研究组--首页",
+            "icon": "https://logo.clearbit.com/shi.buaa.edu.cn",
+            "url": "https://shi.buaa.edu.cn/zhaolidong/zh_CN/index.htm"
           }
         ]
       },
@@ -1125,13 +838,6 @@
           },
           {
             "type": "link",
-            "addDate": 1682790698786,
-            "title": "[激活 Office] Office Tool Plus 入门教程 - Yerong の小窝",
-            "icon": "https://logo.clearbit.com/www.coolhub.top",
-            "url": "https://www.coolhub.top/archives/14"
-          },
-          {
-            "type": "link",
             "addDate": 1693193999998,
             "title": "---- 邮箱 ----",
             "icon": "https://logo.clearbit.com/",
@@ -1156,7 +862,7 @@
       {
         "type": "folder",
         "addDate": 1676619247678,
-        "title": "各种导航和软件下载网站",
+        "title": "导航和软件下载网站",
         "children": [
           {
             "type": "link",
@@ -1188,31 +894,10 @@
           },
           {
             "type": "link",
-            "addDate": 1683642223181,
-            "title": "GitHub - zhaoolee/ChromeAppHeroes： 🌈 谷粒-Chrome插件英雄榜， 为优秀的Chrome插件写一本中文说明书， 让Chrome插件英雄们造福人类~ ChromePluginHeroes， 为优秀的Chrome插件写一本中文手册，让Chrome插件英雄造福人类~ 公众号「0加1」同步更新",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/zhaoolee/ChromeAppHeroes"
-          },
-          {
-            "type": "link",
-            "addDate": 1665939604389,
-            "title": "盒子部落 - 互联网资源分享平台",
-            "icon": "https://logo.clearbit.com/www.hezibuluo.com",
-            "url": "https://www.hezibuluo.com/"
-          },
-          {
-            "type": "link",
             "addDate": 1692673342790,
             "title": "相关软件下载 | 油小猴",
             "icon": "https://logo.clearbit.com/www.youxiaohou.com",
             "url": "https://www.youxiaohou.com/download.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1699277493280,
-            "title": "madVR/LAVFilters/xyVSFilter 视频解码套件汉化绿色版 - 易破解",
-            "icon": "https://logo.clearbit.com/www.ypojie.com",
-            "url": "https://www.ypojie.com/11856.html"
           },
           {
             "type": "link",
@@ -1237,13 +922,6 @@
           },
           {
             "type": "link",
-            "addDate": 1697254700002,
-            "title": "HelloGitHub",
-            "icon": "https://logo.clearbit.com/hellogithub.com",
-            "url": "https://hellogithub.com/"
-          },
-          {
-            "type": "link",
             "addDate": 1701105217128,
             "title": "423Down",
             "icon": "https://logo.clearbit.com/www.423down.com",
@@ -1251,45 +929,10 @@
           },
           {
             "type": "link",
-            "addDate": 1705809923545,
-            "title": "Temp Mail - 临时邮件",
-            "icon": "https://logo.clearbit.com/mail.tm",
-            "url": "https://mail.tm/zh/"
-          },
-          {
-            "type": "link",
-            "addDate": 1706247672988,
-            "title": "OriginPro 2022 v.9.9.0.225 (SR1) x64 – Downloadly",
-            "icon": "https://logo.clearbit.com/downloadlynet.ir",
-            "url": "https://downloadlynet.ir/2020/17/6309/03/originpro/17/?#/6309-originpr-092410013726.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1708912160900,
-            "title": "宝藏指南 | 只收录互联网上真正的宝藏",
-            "icon": "https://logo.clearbit.com/www.baozangzhinan.com",
-            "url": "https://www.baozangzhinan.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1709303059482,
-            "title": "洛雪音乐 | Link3",
-            "icon": "https://logo.clearbit.com/link3.cc",
-            "url": "https://link3.cc/lxmusic"
-          },
-          {
-            "type": "link",
-            "addDate": 1712251286573,
-            "title": "阅读APP源 - AOAOSTAR",
-            "icon": "https://logo.clearbit.com/legado.aoaostar.com",
-            "url": "https://legado.aoaostar.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1722447028170,
-            "title": "教程· Directory Opus ·",
-            "icon": "https://logo.clearbit.com/www.kancloud.cn",
-            "url": "https://www.kancloud.cn/chaoses/directory-opus/2736014"
+            "addDate": 1697254700002,
+            "title": "HelloGitHub",
+            "icon": "https://logo.clearbit.com/hellogithub.com",
+            "url": "https://hellogithub.com/"
           },
           {
             "type": "link",
@@ -1300,6 +943,20 @@
           },
           {
             "type": "link",
+            "addDate": 1708912160900,
+            "title": "宝藏指南 | 只收录互联网上真正的宝藏",
+            "icon": "https://logo.clearbit.com/www.baozangzhinan.com",
+            "url": "https://www.baozangzhinan.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726651629263,
+            "title": "Downloadly – 免费软件下载 --- Downloadly – Free Software Download",
+            "icon": "https://logo.clearbit.com/downloadlynet.ir",
+            "url": "https://downloadlynet.ir/"
+          },
+          {
+            "type": "link",
             "addDate": 1723289277790,
             "title": "公众号推荐",
             "icon": "https://logo.clearbit.com/www.kdocs.cn",
@@ -1307,17 +964,10 @@
           },
           {
             "type": "link",
-            "addDate": 1724413394259,
-            "title": "广告拦截规则合集 | 网站合集",
-            "icon": "https://logo.clearbit.com/www.207788.xyz",
-            "url": "https://www.207788.xyz/109.html"
-          },
-          {
-            "type": "link",
-            "addDate": 1724758859012,
-            "title": "猫抓(cat catch) | 猫抓(cat catch) 说明书",
-            "icon": "https://logo.clearbit.com/o2bmm.gitbook.io",
-            "url": "https://o2bmm.gitbook.io/cat-catch"
+            "addDate": 1709303059482,
+            "title": "洛雪音乐 | Link3",
+            "icon": "https://logo.clearbit.com/link3.cc",
+            "url": "https://link3.cc/lxmusic"
           }
         ]
       },
@@ -1428,85 +1078,8 @@
       },
       {
         "type": "folder",
-        "addDate": 1687105003843,
-        "title": "VPN",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1680260644319,
-            "title": "V2free",
-            "icon": "https://logo.clearbit.com/w1.v2free.top",
-            "url": "https://w1.v2free.top/user/node"
-          },
-          {
-            "type": "link",
-            "addDate": 1684601552861,
-            "title": "2022年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 – v2rayShare",
-            "icon": "https://logo.clearbit.com/v2rayshare.com",
-            "url": "https://v2rayshare.com/f/freenode"
-          },
-          {
-            "type": "link",
-            "addDate": 1694771414144,
-            "title": "NodeFree | SSR/V2ray/Clash免费节点",
-            "icon": "https://logo.clearbit.com/nodefree.org",
-            "url": "https://nodefree.org/"
-          },
-          {
-            "type": "link",
-            "addDate": 1696241842055,
-            "title": "Duang的订阅转换",
-            "icon": "https://logo.clearbit.com/a.duangks.com",
-            "url": "https://a.duangks.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1696253372612,
-            "title": "v2cross – the way to cross.",
-            "icon": "https://logo.clearbit.com/v2cross.com",
-            "url": "https://v2cross.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1695819795844,
-            "title": "SMS-Activate是在线接受短信的虚拟号码服务",
-            "icon": "https://logo.clearbit.com/sms-activate.org",
-            "url": "https://sms-activate.org/cn"
-          },
-          {
-            "type": "link",
-            "addDate": 1702382959634,
-            "title": "Dler Cloud",
-            "icon": "https://logo.clearbit.com/dlercloud.com",
-            "url": "https://dlercloud.com/user"
-          },
-          {
-            "type": "link",
-            "addDate": 1711805674044,
-            "title": "winston779/dukadi: 杜卡迪机场官网地址",
-            "icon": "https://logo.clearbit.com/github.com",
-            "url": "https://github.com/winston779/dukadi"
-          },
-          {
-            "type": "link",
-            "addDate": 1712045991231,
-            "title": "仪表盘 | 杜卡迪",
-            "icon": "https://logo.clearbit.com/www.dukadi.one",
-            "url": "https://www.dukadi.one/#/dashboard"
-          },
-          {
-            "type": "link",
-            "addDate": 1719682183503,
-            "title": "用户中心 — 番茄.V2航线",
-            "icon": "https://logo.clearbit.com/fanqie05.top",
-            "url": "https://fanqie05.top/user"
-          }
-        ]
-      },
-      {
-        "type": "folder",
         "addDate": 1697984654053,
-        "title": "追番目录",
+        "title": "番剧资源网站",
         "children": [
           {
             "type": "link",
@@ -1594,6 +1167,146 @@
           },
           {
             "type": "link",
+            "addDate": 1725812621825,
+            "title": "国漫阿里云盘分享",
+            "icon": "https://logo.clearbit.com/www.alipan.com",
+            "url": "https://www.alipan.com/s/Wx5R2WJFKVw/folder/65f0249342f21acc9cd14733a97bc2d8d00ead3c"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1726651980080,
+        "title": "追番收藏",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1657192565015,
+            "title": "《魔术士奥芬的无赖之旅》高清在线观看-免费下载-策驰影院",
+            "icon": "https://logo.clearbit.com/www.changyyy.com",
+            "url": "https://www.changyyy.com/voddetail/56246.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1693673752202,
+            "title": "《异世界的圣机师物语》",
+            "icon": "https://logo.clearbit.com/www.dm3.cc",
+            "url": "http://www.dm3.cc/video/649.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1660964423847,
+            "title": "《月与莱卡与吸血公主》免费在线观看-策驰影院免费在线观看高清综合动漫月与莱卡与吸血公主全集",
+            "icon": "https://logo.clearbit.com/www.cechiya.com",
+            "url": "https://www.cechiya.com/yuanxian/105868.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1660484796049,
+            "title": "《阴阳眼见子》高清全集在线观看-风车动漫-动漫啦",
+            "icon": "https://logo.clearbit.com/www.dmlaa.com",
+            "url": "http://www.dmlaa.com/video/772.html#desc"
+          },
+          {
+            "type": "link",
+            "addDate": 1658891477068,
+            "title": "《彻夜之歌》高清全集在线观看-风车动漫-动漫啦",
+            "icon": "https://logo.clearbit.com/www.dmlaa.com",
+            "url": "http://www.dmlaa.com/play/7315-1-1.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1693673649451,
+            "title": "《AI电子基因》",
+            "icon": "https://logo.clearbit.com/www.dm3.cc",
+            "url": "http://www.dm3.cc/video/8142.html"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1687105003843,
+        "title": "VPN",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1680260644319,
+            "title": "V2free",
+            "icon": "https://logo.clearbit.com/w1.v2free.top",
+            "url": "https://w1.v2free.top/user/node"
+          },
+          {
+            "type": "link",
+            "addDate": 1684601552861,
+            "title": "2022年最新高速SSR/V2ray/Clash/Shadowrocket免费节点订阅链接 – v2rayShare",
+            "icon": "https://logo.clearbit.com/v2rayshare.com",
+            "url": "https://v2rayshare.com/f/freenode"
+          },
+          {
+            "type": "link",
+            "addDate": 1694771414144,
+            "title": "NodeFree | SSR/V2ray/Clash免费节点",
+            "icon": "https://logo.clearbit.com/nodefree.org",
+            "url": "https://nodefree.org/"
+          },
+          {
+            "type": "link",
+            "addDate": 1696241842055,
+            "title": "Duang的订阅转换",
+            "icon": "https://logo.clearbit.com/a.duangks.com",
+            "url": "https://a.duangks.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1696253372612,
+            "title": "v2cross – the way to cross.",
+            "icon": "https://logo.clearbit.com/v2cross.com",
+            "url": "https://v2cross.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1695819795844,
+            "title": "SMS-Activate是在线接受短信的虚拟号码服务",
+            "icon": "https://logo.clearbit.com/sms-activate.org",
+            "url": "https://sms-activate.org/cn"
+          },
+          {
+            "type": "link",
+            "addDate": 1702382959634,
+            "title": "Dler Cloud",
+            "icon": "https://logo.clearbit.com/dlercloud.com",
+            "url": "https://dlercloud.com/user"
+          },
+          {
+            "type": "link",
+            "addDate": 1711805674044,
+            "title": "winston779/dukadi: 杜卡迪机场官网地址",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/winston779/dukadi"
+          },
+          {
+            "type": "link",
+            "addDate": 1712045991231,
+            "title": "仪表盘 | 杜卡迪",
+            "icon": "https://logo.clearbit.com/www.dukadi.one",
+            "url": "https://www.dukadi.one/#/dashboard"
+          },
+          {
+            "type": "link",
+            "addDate": 1719682183503,
+            "title": "用户中心 — 番茄.V2航线",
+            "icon": "https://logo.clearbit.com/fanqie05.top",
+            "url": "https://fanqie05.top/user"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1726656464224,
+        "title": "源、插件及软件教程",
+        "children": [
+          {
+            "type": "link",
             "addDate": 1717347306016,
             "title": "阅读 - 源仓库",
             "icon": "https://logo.clearbit.com/www.yckceo.com",
@@ -1601,10 +1314,31 @@
           },
           {
             "type": "link",
-            "addDate": 1725812621825,
-            "title": "国漫阿里云盘分享",
-            "icon": "https://logo.clearbit.com/www.alipan.com",
-            "url": "https://www.alipan.com/s/Wx5R2WJFKVw/folder/65f0249342f21acc9cd14733a97bc2d8d00ead3c"
+            "addDate": 1712251286573,
+            "title": "阅读APP源 - AOAOSTAR",
+            "icon": "https://logo.clearbit.com/legado.aoaostar.com",
+            "url": "https://legado.aoaostar.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722447028170,
+            "title": "教程· Directory Opus ·",
+            "icon": "https://logo.clearbit.com/www.kancloud.cn",
+            "url": "https://www.kancloud.cn/chaoses/directory-opus/2736014"
+          },
+          {
+            "type": "link",
+            "addDate": 1724758859012,
+            "title": "猫抓(cat catch) | 猫抓(cat catch) 说明书",
+            "icon": "https://logo.clearbit.com/o2bmm.gitbook.io",
+            "url": "https://o2bmm.gitbook.io/cat-catch"
+          },
+          {
+            "type": "link",
+            "addDate": 1724413394259,
+            "title": "广告拦截规则合集 | 网站合集",
+            "icon": "https://logo.clearbit.com/www.207788.xyz",
+            "url": "https://www.207788.xyz/109.html"
           }
         ]
       },
@@ -1614,6 +1348,13 @@
         "title": "---- 其他 ----",
         "icon": "https://logo.clearbit.com/",
         "url": "about:blank?96278"
+      },
+      {
+        "type": "link",
+        "addDate": 1705809923545,
+        "title": "Temp Mail - 临时邮件",
+        "icon": "https://logo.clearbit.com/mail.tm",
+        "url": "https://mail.tm/zh/"
       },
       {
         "type": "link",
@@ -1628,6 +1369,263 @@
         "title": "Desmos | 科学计算器",
         "icon": "https://logo.clearbit.com/www.desmos.com",
         "url": "https://www.desmos.com/scientific?lang=zh-CN"
+      },
+      {
+        "type": "link",
+        "addDate": 1726651250122,
+        "title": "卫星在线-2024谷歌中国高清地图-Google世界高清卫星地图",
+        "icon": "https://logo.clearbit.com/huawei.com.tw",
+        "url": "https://huawei.com.tw/earth/"
+      }
+    ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1678892227815,
+    "title": "其他收藏夹",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1656415746049,
+        "title": "绘图推送",
+        "children": [
+          {
+            "type": "link",
+            "title": "秀米首页 - 秀米 XIUMI",
+            "icon": "https://logo.clearbit.com/xiumi.us",
+            "url": "https://xiumi.us/#/"
+          },
+          {
+            "type": "link",
+            "title": "千库网_免费png图片背景素材下载,做设计不抠图",
+            "icon": "https://logo.clearbit.com/588ku.com",
+            "url": "http://588ku.com/"
+          },
+          {
+            "type": "link",
+            "title": "Color Scheme Designer 3_高级在线配色器_配色网",
+            "icon": "https://logo.clearbit.com/www.peise.net",
+            "url": "http://www.peise.net/tools/web/"
+          },
+          {
+            "type": "link",
+            "title": "AE模板_新CG儿 - 数字视觉分享平台 | AE模板_视频素材_免费下载",
+            "icon": "https://logo.clearbit.com/www.newcger.com",
+            "url": "http://www.newcger.com/aemoban/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1656415746057,
+        "title": "学校网站",
+        "children": [
+          {
+            "type": "link",
+            "title": "Unitown 广州大学城高校互选课程管理系统 首页",
+            "icon": "https://logo.clearbit.com/unitown.scnu.edu.cn",
+            "url": "https://unitown.scnu.edu.cn/"
+          },
+          {
+            "type": "link",
+            "title": "华南师范大学非正式课程管理系统 首页",
+            "icon": "https://logo.clearbit.com/fzskc.scnu.edu.cn",
+            "url": "https://fzskc.scnu.edu.cn/"
+          },
+          {
+            "type": "link",
+            "title": "教学管理信息服务平台",
+            "icon": "https://logo.clearbit.com/jwxt.scnu.edu.cn",
+            "url": "https://jwxt.scnu.edu.cn/xtgl/index_initMenu.html?jsdm=&_t=1576190391124"
+          },
+          {
+            "type": "link",
+            "title": "华南师范大学图书馆",
+            "icon": "https://logo.clearbit.com/lib.scnu.edu.cn",
+            "url": "http://lib.scnu.edu.cn/"
+          },
+          {
+            "type": "link",
+            "title": "欢迎进入学生学习平台",
+            "icon": "https://logo.clearbit.com/gxk.scnu.edu.cn",
+            "url": "http://gxk.scnu.edu.cn/Platform/StudentPlatform.html"
+          },
+          {
+            "type": "link",
+            "title": "Fx 高校学生综合服务平台 宿舍管理系统",
+            "icon": "https://logo.clearbit.com/ssp.scnu.edu.cn",
+            "url": "https://ssp.scnu.edu.cn/pay/opt_wyjf.aspx?key=ewUhHKEknbDAFrSJ"
+          },
+          {
+            "type": "link",
+            "title": "综合服务平台 - 华南师范大学",
+            "icon": "https://logo.clearbit.com/sso.scnu.edu.cn",
+            "url": "https://sso.scnu.edu.cn/AccountService/user/index.html"
+          },
+          {
+            "type": "link",
+            "title": "华南师范大学网络中心",
+            "icon": "https://logo.clearbit.com/nc.scnu.edu.cn",
+            "url": "https://nc.scnu.edu.cn/"
+          },
+          {
+            "type": "link",
+            "title": "正版软件服务平台",
+            "icon": "https://logo.clearbit.com/ms.scnu.edu.cn",
+            "url": "http://ms.scnu.edu.cn/"
+          },
+          {
+            "type": "link",
+            "title": "大学生毕业设计（论文）管理系统",
+            "icon": "https://logo.clearbit.com/scnu.co.cnki.net",
+            "url": "http://scnu.co.cnki.net/Main.html?dp=scnu&r=1625929727134"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1656415746061,
+        "title": "材料实验",
+        "children": [
+          {
+            "type": "link",
+            "title": "项目详情",
+            "icon": "https://logo.clearbit.com/www.ilab-x.com",
+            "url": "http://www.ilab-x.com/details/v5?id=5248&isView=true"
+          },
+          {
+            "type": "link",
+            "title": "项目详情",
+            "icon": "https://logo.clearbit.com/www.ilab-x.com",
+            "url": "http://www.ilab-x.com/details/v5?id=4830&isView=true"
+          },
+          {
+            "type": "link",
+            "title": "网址大全",
+            "icon": "https://logo.clearbit.com/123.sogou.com",
+            "url": "https://123.sogou.com/"
+          },
+          {
+            "type": "link",
+            "title": "项目详情",
+            "icon": "https://logo.clearbit.com/www.ilab-x.com",
+            "url": "http://www.ilab-x.com/details/v5?id=5141&isView=true"
+          },
+          {
+            "type": "link",
+            "title": "开始实验",
+            "icon": "https://logo.clearbit.com/djszfz.haust.edu.cn",
+            "url": "http://djszfz.haust.edu.cn/ReportStudent/SLabSource/SSYKS#"
+          },
+          {
+            "type": "link",
+            "title": "金刚石",
+            "icon": "https://logo.clearbit.com/www.ilab-x.com",
+            "url": "http://www.ilab-x.com/details/v5?id=5129&isView=true"
+          },
+          {
+            "type": "link",
+            "title": "气相沉积法制备二维纳米材料",
+            "icon": "https://logo.clearbit.com/www.ilab-x.com",
+            "url": "http://www.ilab-x.com/details/v5?id=4699&isView=true"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1656415746062,
+        "title": "备课",
+        "children": [
+          {
+            "type": "link",
+            "title": "免费课件下载-第一备课网",
+            "icon": "https://logo.clearbit.com/bk.cooco.net.cn",
+            "url": "http://bk.cooco.net.cn/kejian/"
+          },
+          {
+            "type": "link",
+            "title": "初中数学试卷/教案/课件精品备课资料下载-初中频道-数学学科网",
+            "icon": "https://logo.clearbit.com/sx.zxxk.com",
+            "url": "http://sx.zxxk.com/m/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1656415746062,
+        "title": "考研",
+        "children": [
+          {
+            "type": "link",
+            "title": "网上报名_中国研究生招生信息网",
+            "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+            "url": "https://yz.chsi.com.cn/yzwb/"
+          },
+          {
+            "type": "link",
+            "title": "中国研究生招生信息网",
+            "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+            "url": "https://yz.chsi.com.cn/"
+          },
+          {
+            "type": "link",
+            "title": "广东省2021年硕士研究生招生考试报名须知（一）_网报公告_中国研究生招生信息网",
+            "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+            "url": "https://yz.chsi.com.cn/sswbgg/pages/msg_detail.jsp?dwdm=44&msg_id=598158"
+          },
+          {
+            "type": "link",
+            "title": "全国硕士研究生招生考试网上报名平台",
+            "icon": "https://logo.clearbit.com/yz.chsi.com.cn",
+            "url": "https://yz.chsi.com.cn/apply/main.do"
+          },
+          {
+            "type": "link",
+            "title": "中国高等教育学生信息网（学信网）",
+            "icon": "https://logo.clearbit.com/www.chsi.com.cn",
+            "url": "https://www.chsi.com.cn/"
+          },
+          {
+            "type": "link",
+            "title": "固体物理学_中国大学MOOC(慕课)",
+            "icon": "https://logo.clearbit.com/www.icourse163.org",
+            "url": "http://www.icourse163.org/learn/NJTU-1207232804?tid=1207572205#/learn/announce"
+          }
+        ]
+      },
+      {
+        "type": "link",
+        "title": "实习生招聘_大学生实习找工作_应届生实习求职信息-智联招聘官网",
+        "icon": "https://logo.clearbit.com/xiaoyuan.zhaopin.com",
+        "url": "https://xiaoyuan.zhaopin.com/shixi"
+      }
+    ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1678892227815,
+    "title": "移动收藏夹",
+    "children": [
+      {
+        "type": "link",
+        "addDate": 1663680651157,
+        "title": "元素周期表 - Ptable",
+        "icon": "https://logo.clearbit.com/ptable.com",
+        "url": "https://ptable.com/#%E6%80%A7%E8%B4%A8"
+      },
+      {
+        "type": "link",
+        "addDate": 1667347674951,
+        "title": "金山文档 · 一起办公才高效",
+        "icon": "https://logo.clearbit.com/www.kdocs.cn",
+        "url": "https://www.kdocs.cn/latest?from=docs"
+      },
+      {
+        "type": "link",
+        "addDate": 1693193305285,
+        "title": "---- 动漫 ----",
+        "icon": "https://logo.clearbit.com/",
+        "url": "about:blank?57294"
       }
     ]
   }
